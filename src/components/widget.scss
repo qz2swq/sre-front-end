@@ -1,0 +1,15 @@
+.widget {
+   
+    padding: 10px;
+    border-radius: 30px;
+    background: #e0e0e0;
+    box-shadow:  41px 41px 82px #afafaf,
+                 -41px -41px 82px #ffffff;
+ table{
+    border-collapse: collapse; 
+    width: 100%;
+ }
+ td, th {
+    padding: 10px; 
+  }
+}

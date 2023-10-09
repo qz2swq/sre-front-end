@@ -1,0 +1,17 @@
+.box{
+    padding: 10px;
+    border-radius: 30px;
+    background: #f5f4f4;
+    box-shadow:  41px 41px 82px #d6d4d4,
+                 -41px -41px 82px #cecaca;
+    .goodicon{
+        color:green,
+    }
+    .warning{
+        color: red,
+    }
+    .alert{
+        color: yellow;
+    }
+
+}
